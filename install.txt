@@ -1,0 +1,6 @@
+# AppInstall
+npm i -g @angular/cli
+ng new name [--style scss, --prefix pref(usually and by default 'app')]
+npm i son-server -g
+json-server --watch db.json --port 3000
+
